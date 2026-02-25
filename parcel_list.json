@@ -1,0 +1,4 @@
+{
+  "existing": ["ParcelA", "ParcelB"],
+  "new": ["ParcelC", "ParcelD"]
+}
