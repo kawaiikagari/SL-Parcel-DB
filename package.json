@@ -1,0 +1,12 @@
+{
+  "name": "sl-parcel-scraper",
+  "version": "1.0.0",
+  "description": "Second Life Parcel 自動検索 + JSON生成",
+  "main": "parcelScraper.js",
+  "scripts": {
+    "start": "node parcelScraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
